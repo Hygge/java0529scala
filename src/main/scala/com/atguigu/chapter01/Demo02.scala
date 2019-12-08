@@ -10,5 +10,7 @@ object Demo02 {
     //(byte,short)和char之间不会自动转换类型
     var n4: Byte = 10
     //var char1: Char = n4 //错误，因为byte不能自动转换char
+
+    //阿斯顿法国红酒看来
   }
 }
